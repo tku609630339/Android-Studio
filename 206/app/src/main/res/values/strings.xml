@@ -1,0 +1,17 @@
+<resources>
+  <string name="app_name">姓名清單</string>
+  <string-array name="strNames">
+    <item>Ella</item>
+    <item>Body</item>
+    <item>David</item>
+    <item>Andy</item>
+    <item>Cindy</item>
+    <item>GiGi</item>
+    <item>Fancy</item>
+  </string-array>
+
+
+
+  <string name="hello_world">Hello world!</string>
+  <string name="action_settings">Settings</string>
+</resources>
